@@ -68,3 +68,4 @@
 .container__botao {
     display: none;
 }
+@media screen and (min-with: 1024px) {}
